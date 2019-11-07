@@ -1,5 +1,6 @@
 {
   "name": "components",
-  "app_id": "",
-  "type": "ionic-angular"
+  "integrations": {},
+  "type": "ionic-angular",
+  "app_id": ""
 }
